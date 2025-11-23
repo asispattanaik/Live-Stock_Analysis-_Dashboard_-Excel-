@@ -3,6 +3,7 @@ I built an interactive Excel dashboard that tracks and analyzes a stock investme
 
 
 Dashboard Image: https://github.com/asispattanaik/Live-Stock_Analysis-_Dashboard_-Excel-/blob/main/Screenshot%202025-11-24%20020543.png?raw=true
+
 Data Set:https://docs.google.com/spreadsheets/d/1LYCBqrYyhdLCDl12qu8G1IPXAgVAugt2Tm3b8kmtNa4/edit?usp=sharing
 
 **Conclusion**
